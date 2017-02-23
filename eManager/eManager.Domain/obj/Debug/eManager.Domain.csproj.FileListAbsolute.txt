@@ -1,0 +1,7 @@
+c:\users\575435\documents\visual studio 2010\Projects\eManager\eManager.Domain\bin\Debug\eManager.Domain.dll
+c:\users\575435\documents\visual studio 2010\Projects\eManager\eManager.Domain\bin\Debug\eManager.Domain.pdb
+c:\users\575435\documents\visual studio 2010\Projects\eManager\eManager.Domain\obj\Debug\eManager.Domain.dll
+c:\users\575435\documents\visual studio 2010\Projects\eManager\eManager.Domain\obj\Debug\eManager.Domain.pdb
+c:\users\575435\documents\visual studio 2010\Projects\eManager\eManager.Domain\bin\Debug\eManager.Domain.dll.config
+c:\users\575435\documents\visual studio 2010\Projects\eManager\eManager.Domain\bin\Debug\EntityFramework.dll
+c:\users\575435\documents\visual studio 2010\Projects\eManager\eManager.Domain\bin\Debug\EntityFramework.xml
